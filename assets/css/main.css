@@ -1114,7 +1114,7 @@
 			filter: blur(0.2rem);
 		}
 
-		body.is-loading #bg:before {
+		body.is-preload #bg:before {
 			background-color: #000000;
 		}
 
