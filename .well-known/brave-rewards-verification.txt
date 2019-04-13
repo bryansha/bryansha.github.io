@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bryanha.me
+Token: 5a3f625cad33f4588176f169b3545cea9baed32a2325eb42ea4c6394df92f60a
